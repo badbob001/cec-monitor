@@ -2,9 +2,9 @@
 
 #persistent
 #singleInstance force
-logfile:="C:\Program Files (x86)\Pulse-Eight\USB-CEC Adapter\cec_monitor.log"
-tvon:="C:\Program Files (x86)\Pulse-Eight\USB-CEC Adapter\tv_on.cmd"
-tvoff:="C:\Program Files (x86)\Pulse-Eight\USB-CEC Adapter\tv_off.cmd"
+logfile:="C:\cec_monitor\cec_monitor.log"
+tvon:="C:\cec_monitor\tv_on.cmd"
+tvoff:="C:\cec_monitor\tv_off.cmd"
 ceclocation:="C:\Program Files (x86)\Pulse-Eight\USB-CEC Adapter"
 
 GUID_MONITOR_POWER_ON:="02731015-4510-4526-99e6-e5a17ebd1aea"
