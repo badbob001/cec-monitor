@@ -1,3 +1,5 @@
+;portions courtesy of Masonjar13 at https://www.autohotkey.com/boards/viewtopic.php?p=85239
+
 #persistent
 #singleInstance force
 logfile:="C:\Program Files (x86)\Pulse-Eight\USB-CEC Adapter\cec_monitor.log"
